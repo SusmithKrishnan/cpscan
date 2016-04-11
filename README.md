@@ -19,4 +19,4 @@ USAGE:
 EXAMPLE:
           python cpscan.py -t targetsite.com -v
 			   
-if you have any suggestions please contact me 	https://www.facebook.com/Susmith.AfRo		   
+if you have any suggestions please contact me 	https://www.facebook.com/Susmith.AfRo	
