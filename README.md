@@ -9,7 +9,7 @@
 
 cpscan is a simple admin panel finder coded in python. 
 The script actually bruteforce the possible directories and returns the HTTP response code.
-you can add your own directories by edithing "dir" file.
+you can add your own directories by editing "dir" file.
 
 USAGE:
 
