@@ -12,11 +12,13 @@ The script actually bruteforce the possible directories and returns the HTTP res
 you can add your own directories by edithing "dir" file.
 
 USAGE:
+
          -t  --target   - Target web server "example.com"
          -v  --verbose  - Enable verbose mode
          -h  --help     - show this menu
 
 EXAMPLE:
+
           python cpscan.py -t targetsite.com -v
 			   
-if you have any suggestions please contact me 	https://www.facebook.com/Susmith.AfRo	
+if you have any suggestions please contact me 	https://www.facebook.com/Susmith.AfRo
